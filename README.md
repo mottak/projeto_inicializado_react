@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Boas vindas ao repositório de um projeto inicializado com React!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O objetivo desse repositório é facilitar a vida (a minha e de quem mais quiser usar esse repositório)
+Tendo em vista que desenvolvedores tem aquela faminha de preguisoços, no meu ponto de vista gostamos de aproveitar coisas que já estão prontas e funcionais
+criei esse repositório para agilizar o processo de começar um projeto em React do zero.
 
-## Available Scripts
+# O que tem nesse repositório?
 
-In the project directory, you can run:
+Esse repositorio tem uma aplicação React inicializada, se voce não sabe como fazer a documentação é ótima e tem o tutorial [aqui](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 
-### `npm start`
+Além disso o Eslint e o prettier já estão configurados, o Eslintjá segue as regras do airbnb :star_struck:
+As configuracões do Eslint foram tiradas [daqui](https://felipecesar.dev/posts/como-configurar-o-prettier-e-eslint-em-projetos-react/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Usando o código desse repositório voce economiza tempo ao criar projetos do zero
+Fique a vontade para clonar ou fazer forks :blush:
 
-### `npm test`
+# Como usar?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Com esse repositório clonado na sua máquina voce só precisa rodar o comando:
 
-### `npm run build`
+se estiver usando npm:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    `npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+se tiver usando yarn:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    `yarn install`
